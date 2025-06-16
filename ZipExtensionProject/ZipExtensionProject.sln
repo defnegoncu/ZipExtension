@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipExtensionTest", "ZipExtensionTest\ZipExtensionTest.csproj", "{ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipExtension", "ZipExtension\ZipExtension.csproj", "{ED1C3838-854E-4E7E-8590-E7B1E3CBC5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1C3838-854E-4E7E-8590-E7B1E3CBC5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1C3838-854E-4E7E-8590-E7B1E3CBC5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1C3838-854E-4E7E-8590-E7B1E3CBC5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1C3838-854E-4E7E-8590-E7B1E3CBC5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

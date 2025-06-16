@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0998b303_002D57ea_002D4564_002D9910_002D896cf60c114a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateFromDirectoryInMemoryAsync_ShouldAddFilesToMemoryArchive" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_InvalidCharactersInPath_ThrowsArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.ExtractToDirectory_ValidArchive_ShouldExtractEntries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_ValidArchive_ReturnsZipArchive&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_NullArgument_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_NotAZipFile_ThrowsInvalidDataException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_NonExistentFile_ThrowsFileNotFoundException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.ExtractToDirectory_ValidArchive_ExtractsSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.ExtractToDirectory_EmptyArchive_ShouldCreateDirectoryWithoutFiles&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b92d2828_002D94e0_002D414e_002D970f_002D1c451d91b582/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ExtractToDirectory_WhitespaceDestination_ThrowsArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0fda44e_002D2bfd_002D40ae_002D96b1_002Df6a3584848d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetZipArchive_ShouldReturnZipArchive_WhenFileExists #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest.GetZipArchive_InvalidCharactersInPath_ThrowsArgumentException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8286220_002D95d8_002D4743_002D9e5a_002Dd188d894d4c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetZipArchive_ShouldReturnZipArchive_WhenFileExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ECDADEBD-2BDC-46DB-B488-3929E2E6B0A3::net6.0::ZipExtensionTest.ZipExtensionUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

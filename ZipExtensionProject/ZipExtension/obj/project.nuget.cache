@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+QAgN6fLMs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\defin\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\nsubstitute\\5.3.0\\nsubstitute.5.3.0.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\testableio.system.io.abstractions\\21.0.29\\testableio.system.io.abstractions.21.0.29.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
