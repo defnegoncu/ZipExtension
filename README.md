@@ -13,12 +13,12 @@
 
 ---
 
-## 🔧 Installation
+## Installation
 
 Install the required NuGet packages:
 System.IO.Abstractions
 
-🧪 Unit Testing
+## Unit Testing
 This project includes comprehensive unit tests covering:
 
 - Valid/invalid ZIP files
