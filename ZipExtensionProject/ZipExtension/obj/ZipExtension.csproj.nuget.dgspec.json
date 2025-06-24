@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj": {}
+    "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj": {}
   },
   "projects": {
-    "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj": {
+    "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj",
+        "projectUniqueName": "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj",
         "projectName": "ZipExtension",
-        "projectPath": "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj",
+        "projectPath": "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtension\\ZipExtension.csproj",
         "packagesPath": "C:\\Users\\defin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtension\\obj\\",
+        "outputPath": "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\defin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -66,19 +66,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\defin\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\defin\\.dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

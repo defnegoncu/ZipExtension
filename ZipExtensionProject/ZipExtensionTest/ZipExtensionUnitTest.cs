@@ -19,10 +19,10 @@ public class ZipExtensionUnitTest
     {
         _mockFileSystem = new MockFileSystem();
     }
-    public ZipExtensionWrapper CreateZipExtensionWrapper(IFileSystem? fileSystem = null)
+    public ZipExtension.ZipExtension CreateZipExtensionWrapper(IFileSystem? fileSystem = null)
     {
         fileSystem ??= new MockFileSystem();
-        return new ZipExtensionWrapper(fileSystem);
+        return new ZipExtension.ZipExtension(fileSystem);
     }
 
     [Test]
@@ -251,7 +251,7 @@ public class ZipExtensionUnitTest
         mockFileSystem.Directory.Exists("/nonWritable").Returns(true);
         mockFileSystem.Directory.CreateDirectory(Arg.Any<string>()).Returns(_ => throw new UnauthorizedAccessException("Simulated Unauthorized Access"));
 
-        var systemUnderTest = new ZipExtensionWrapper(mockFileSystem);
+        var systemUnderTest = new ZipExtension.ZipExtension(mockFileSystem);
 
         Assert.Throws<UnauthorizedAccessException>(() => systemUnderTest.ExtractToDirectory(mockArchive, "/nonWritable"));
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8SVGLOh0ncw=",
+  "dgSpecHash": "KzyqhHH5ZhE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\defin\\Documents\\RiderProjects\\ZipExtensionProject\\ZipExtensionTest\\ZipExtensionTest.csproj",
+  "projectFilePath": "C:\\Users\\defin\\Documents\\GitHub\\ZipExtensionWrapper\\ZipExtensionProject\\ZipExtensionTest\\ZipExtensionTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defin\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\defin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
@@ -59,9 +59,9 @@
     "C:\\Users\\defin\\.nuget\\packages\\testableio.system.io.abstractions\\21.1.3\\testableio.system.io.abstractions.21.1.3.nupkg.sha512",
     "C:\\Users\\defin\\.nuget\\packages\\testableio.system.io.abstractions.testinghelpers\\21.1.3\\testableio.system.io.abstractions.testinghelpers.21.1.3.nupkg.sha512",
     "C:\\Users\\defin\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\21.1.3\\testableio.system.io.abstractions.wrappers.21.1.3.nupkg.sha512",
-    "C:\\Users\\defin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\defin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\defin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\defin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
