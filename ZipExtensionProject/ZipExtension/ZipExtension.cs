@@ -25,7 +25,7 @@ public class ZipExtension
     /// <exception cref="FileNotFoundException">Thrown if the specified file does not exist.</exception>
     /// <exception cref="UnauthorizedAccessException">Thrown if the caller does not have the required permissions.</exception>
     /// <exception cref="InvalidDataException">Thrown if the file is not a valid zip archive.</exception>
-    public ZipArchive GetZipArchive(string archivePath)
+    public ZipArchive OpenReadZipArchive(string archivePath)
     {
         var zipStream = FileSystem.File.OpenRead(archivePath);
         return new ZipArchive(zipStream, ZipArchiveMode.Read);
@@ -39,7 +39,7 @@ public class ZipExtension
     /// <exception cref="ArgumentNullException">Thrown if <paramref name="destination"/> is null.</exception>
     /// <exception cref="UnauthorizedAccessException">Thrown if the caller does not have write access to the destination directory.</exception>
     /// <exception cref="IOException">Thrown if an I/O error occurs during extraction.</exception>
-    public void ExtractToDirectory(ZipArchive archive, string destination)
+    public void ExtractZipArchiveToDirectory(ZipArchive archive, string destination)
     {
         EnsureDestinationDirectoryExists(destination);
 
@@ -66,7 +66,7 @@ public class ZipExtension
     /// <exception cref="DirectoryNotFoundException">Thrown if the source directory does not exist.</exception>
     /// <exception cref="UnauthorizedAccessException">Thrown if the caller does not have the required permissions.</exception>
     /// <exception cref="IOException">Thrown if an I/O error occurs during compression.</exception>
-    public async Task CreateFromDirectoryAsync(string sourcePath, string destinationPath)
+    public async Task CreateZipArchiveFromDirectoryAsync(string sourcePath, string destinationPath)
     {
         ValidatePath(sourcePath);
         ValidatePath(destinationPath);
