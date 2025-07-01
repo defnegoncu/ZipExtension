@@ -1,0 +1,73 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider project files
+.idea/
+.idea_modules/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider-specific
+*.sln.iml
+*.DotSettings.user
+
+# Unit test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.sap
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# xUnit
+*.xml
+*.xml.tmp
+
+# MSTest
+*.testsettings
+*.vsmdi
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider caches
+.idea/.idea.*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/httpRequests
+
+# Local history and temp files
+.idea/shelf/
+.idea/.cache/
+.idea/index/
+.idea/usage.statistics.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/gradle.xml
+.idea/libraries/
+
+# Rider test result caches
+.idea/.testHistory/
+.idea/.run/
+
+# dotCover
+*.dotCover
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
