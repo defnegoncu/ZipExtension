@@ -1,5 +1,0 @@
-C:\Users\defin\Documents\RiderProjects\ZipExtensionProject\ZipExtensionProject\obj\Debug\net6.0\ZipExtensionProject.csproj.AssemblyReference.cache
-C:\Users\defin\Documents\RiderProjects\ZipExtensionProject\ZipExtensionProject\obj\Debug\net6.0\ZipExtensionProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\defin\Documents\RiderProjects\ZipExtensionProject\ZipExtensionProject\obj\Debug\net6.0\ZipExtensionProject.AssemblyInfoInputs.cache
-C:\Users\defin\Documents\RiderProjects\ZipExtensionProject\ZipExtensionProject\obj\Debug\net6.0\ZipExtensionProject.AssemblyInfo.cs
-C:\Users\defin\Documents\RiderProjects\ZipExtensionProject\ZipExtensionProject\obj\Debug\net6.0\ZipExtensionProject.csproj.CoreCompileInputs.cache
